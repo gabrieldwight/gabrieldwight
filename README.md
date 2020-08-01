@@ -6,7 +6,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects and develop sample applications for Blazor and Xamarin forms.
 - ⚡ Fun fact: I love to code when discovering new challenges and play video games
 ---
-## **Languages and Tech Stack**
+## **Languages and Tech Stack** 👨‍💻️
 <img align="right" alt="gabrieldwight's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gabrieldwight&show_icons=true&hide_border=true&count_private=true&theme=dark" />
 
 <img alt="C#" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/>&nbsp;
@@ -18,9 +18,7 @@
 <img alt="SQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />&nbsp;
 <img alt="MySQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />&nbsp;
 
-## **Tools**
-<img align="right" alt="gabrieldwight's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldwight" />
-
+## **Tools** 💻️
 <img alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />&nbsp;
 <img alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />&nbsp;
 <img alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />&nbsp;
@@ -28,6 +26,13 @@
 
 <br />
 <br />
+
+<img align="center" alt="gabrieldwight's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldwight" />
+
+</br>
+</br>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gabrieldwight" alt="gabrieldwight" /> </p>
 
 <!--
 **gabrieldwight/gabrieldwight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
