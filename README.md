@@ -3,7 +3,7 @@
 ## I'm a FullStack .NET Developer
 - 🔭 I'm currently working on a Machine Learning with ML.NET
 - 🌱 I'm currenlty learning everything 🤣 
-- 🥅 2020 Goals: Contribute more to Open Source projects and develop sample applications for Blazor and Xamarin forms.
+- 🥅 2021 Goals: Contribute more to Open Source projects and develop sample applications for Blazor and Xamarin forms.
 - ⚡ Fun fact: I love to code when discovering new challenges and play video games
 ---
 ## **Languages and Tech Stack** 👨‍💻️
