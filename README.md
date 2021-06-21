@@ -32,10 +32,10 @@
 <br />
 <br />
 
-<img align="center" alt="gabrieldwight's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldwight" />
+<img align="center" alt="gabrieldwight's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldwight&theme=dark" />
 
 </br>
-</br>
+</br
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gabrieldwight" alt="gabrieldwight" /> </p>
 
