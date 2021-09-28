@@ -34,6 +34,8 @@
 
 <img align="center" alt="gabrieldwight's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldwight&theme=dark" />
 
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
+
 </br>
 </br
 
