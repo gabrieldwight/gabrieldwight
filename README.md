@@ -37,11 +37,6 @@
 </br>
 </br
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gabrieldwight" alt="gabrieldwight" /> </p>
-
-</br>
-</br>
-
 <!--START_SECTION:waka-->
 ```text
 Other   1 hr 1 min      ████████████████░░░░░░░░░   63.90 % 
@@ -49,6 +44,10 @@ C#      34 mins         █████████░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
+</br>
+</br>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gabrieldwight" alt="gabrieldwight" /> </p>
 
 <!--
 **gabrieldwight/gabrieldwight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
