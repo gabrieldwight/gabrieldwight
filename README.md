@@ -1,4 +1,4 @@
-### Hi there, I'm Gabriel 👋
+### Hi there, I'm Gabriel 👋 [![wakatime](https://wakatime.com/badge/user/f408c742-0016-489e-93cd-eb40a430305a.svg)](https://wakatime.com/@f408c742-0016-489e-93cd-eb40a430305a)
 
 ## I'm a FullStack .NET Developer
 - 🔭 I'm currently working on a Machine Learning with ML.NET
