@@ -39,8 +39,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 24 hrs 32 mins
-
 Java     14 hrs 52 mins  ████████████░░░░░░░░░░░░░   47.70 % 
 C#       8 hrs 18 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.65 % 
 Other    6 hrs 38 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.29 % 
