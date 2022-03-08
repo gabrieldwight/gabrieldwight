@@ -6,11 +6,10 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects and develop sample applications for Blazor and Xamarin forms.
 - ⚡ Fun fact: I love to code when discovering new challenges and play video games
 ---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabrieldwight)](https://git.io/streak-stats)
-
-## **Languages and Tech Stack** 👨‍💻️
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabrieldwight&theme=highcontrast)](https://git.io/streak-stats)
 <img align="right" alt="gabrieldwight's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gabrieldwight&show_icons=true&hide_border=true&count_private=true&theme=dark" />
 
+## **Languages and Tech Stack** 👨‍💻️
 <img alt="C#" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/>&nbsp;
 <img alt="HTML5" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />&nbsp;
 <img alt="CSS3" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />&nbsp;
