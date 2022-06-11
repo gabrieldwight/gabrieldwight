@@ -41,8 +41,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java         20 hrs 13 mins  ████████████▓░░░░░░░░░░░░   51.20 %
-Other        7 hrs 41 mins   █████░░░░░░░░░░░░░░░░░░░░   19.44 %
+Java         20 hrs 24 mins  █████████████▒░░░░░░░░░░░   53.40 %
+CSHTML       6 hrs 20 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.58 %
+Other        5 hrs 47 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.17 %
 ```
 
 <!--END_SECTION:waka-->
