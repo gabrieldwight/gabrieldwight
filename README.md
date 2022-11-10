@@ -3,7 +3,7 @@
 ## I'm a FullStack .NET Developer
 - 🔭 I'm currently working on a Machine Learning with ML.NET
 - 🌱 I'm currenlty learning everything 🤣 
-- 🥅 2022 Goals: Contribute more to Open Source projects and develop sample applications for Blazor and Xamarin forms.
+- 🥅 2022 Goals: Contribute more to Open Source projects and develop sample applications for Blazor and MAUI.
 - ⚡ Fun fact: I love to code when discovering new challenges and play video games
 ---
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabrieldwight&theme=highcontrast)](https://git.io/streak-stats)
