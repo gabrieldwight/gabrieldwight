@@ -1,7 +1,7 @@
 ### Hi there, I'm Gabriel 👋 [![wakatime](https://wakatime.com/badge/user/f408c742-0016-489e-93cd-eb40a430305a.svg)](https://wakatime.com/@f408c742-0016-489e-93cd-eb40a430305a)
 
 ## I'm a FullStack .NET Developer
-- 🔭 I'm currently working on a Machine Learning with ML.NET, MAUI and WINUI
+- 🔭 I'm currently working on a Machine Learning with ML.NET, WASM, MAUI and WINUI
 - 🌱 I'm currenlty learning everything 🤣 
 - 🥅 2022 Goals: Contribute more to Open Source projects and develop sample applications for Blazor and MAUI.
 - ⚡ Fun fact: I love to code when discovering new challenges and play video games
