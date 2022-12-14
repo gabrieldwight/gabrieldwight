@@ -41,8 +41,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Blazor   5 hrs 56 mins   ██████████░░░░░░░░░░░░░░░   40.44 %
-Other    5 hrs 18 mins   █████████░░░░░░░░░░░░░░░░   36.15 %
+Blazor   5 hrs 54 mins   ████████▓░░░░░░░░░░░░░░░░   35.24 %
+Other    5 hrs 23 mins   ████████░░░░░░░░░░░░░░░░░   32.12 %
 ```
 
 <!--END_SECTION:waka-->
