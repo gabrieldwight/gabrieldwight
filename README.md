@@ -2,7 +2,7 @@
 
 ## I'm a FullStack .NET Developer
 - 🔭 I'm currently working on a Machine Learning with ML.NET, WASM, MAUI, AI and WINUI
-- 🌱 I'm currenlty learning everything 🤣 
+- 🌱 I'm currently learning everything 🤣 
 - 🥅 2023 Goals: Contribute more to Open Source projects and develop sample applications for Blazor and MAUI.
 - ⚡ Fun fact: I love to code when discovering new challenges and play video games
 ---
