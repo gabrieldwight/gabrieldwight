@@ -3,7 +3,7 @@
 ## I'm a FullStack .NET Developer
 - 🔭 I'm currently working on a Machine Learning with ML.NET, WASM, MAUI, AI and WINUI
 - 🌱 I'm currently learning everything 🤣 
-- 🥅 2023 Goals: Contribute more to Open Source projects and develop sample applications for Blazor, WINUI and MAUI.
+- 🥅 2023 Goals: Contribute more to Open Source projects and develop sample applications for Azure, Blazor, WINUI and MAUI.
 - ⚡ Fun fact: I love to code when discovering new challenges and play video games
 ---
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabrieldwight&theme=highcontrast)](https://git.io/streak-stats)
