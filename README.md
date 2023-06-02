@@ -40,7 +40,7 @@
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 C#           10 hrs 56 mins  ██████████░░░░░░░░░░░░░░░   39.90 %
 JavaScript   7 hrs 20 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.78 %
 Binary       6 hrs 7 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.32 %
