@@ -1,7 +1,7 @@
 ### Hi there, I'm Gabriel 👋 [![wakatime](https://wakatime.com/badge/user/f408c742-0016-489e-93cd-eb40a430305a.svg)](https://wakatime.com/@f408c742-0016-489e-93cd-eb40a430305a)
 
 ## I'm a FullStack .NET Developer
-- 🔭 I'm currently working on Machine Learning with ML.NET, Hugging face, WASM, Binary, UNO, Avalonia, MAUI, AI, Agents, DALLE, OpenAI and WINUI
+- 🔭 I'm currently working on Machine Learning with ML.NET, WASM, Binary, UNO, Avalonia, MAUI, AI, Agents, DALLE, OpenAI and WINUI
 - 🌱 I'm currently learning everything 🤣 
 - 🥅 2025 Goals: Contribute more to Open-Source projects and develop sample applications for AWS, Azure, Blazor, GCP, WINUI, LLM, RAG, NLP and MAUI.
 - ⚡ Fun fact: I love to code when discovering new challenges and playing video games
