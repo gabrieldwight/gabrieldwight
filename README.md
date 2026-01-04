@@ -41,10 +41,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C#       1 hr 26 mins    ████████████████▒░░░░░░░░   65.89 %
-Binary   38 mins         ███████▒░░░░░░░░░░░░░░░░░   29.24 %
-CSHTML   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
-CSS      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
