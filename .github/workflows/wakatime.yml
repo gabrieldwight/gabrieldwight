@@ -6,6 +6,9 @@ on:
     # Runs every 2 hours
     - cron: "0 */2 * * *"
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     name: Update this repo's README
@@ -13,4 +16,4 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_OAUTH_TOKEN }}
